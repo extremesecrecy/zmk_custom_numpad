@@ -1,0 +1,7 @@
+file_format: "1"
+id: Tenkichi
+name: Tenkichi
+type: shield
+features:
+  - keys
+  - display

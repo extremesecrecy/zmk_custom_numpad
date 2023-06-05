@@ -1,0 +1,6 @@
+if SHIELD_TENKICHI
+
+config ZMK_KEYBOARD_NAME
+    default "Tenkichi"
+
+endif
