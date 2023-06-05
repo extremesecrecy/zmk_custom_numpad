@@ -1,6 +1,6 @@
 file_format: "1"
-id: Tenkichi
-name: Tenkichi
+id: tenkichi
+name: tenkichi
 type: shield
 features:
   - keys
