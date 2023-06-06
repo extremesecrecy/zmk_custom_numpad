@@ -8,9 +8,6 @@
 
     kscan0: kscan {
         compatible = "zmk,kscan-gpio-matrix";
-        rows = <5>;
-        columns = <4>;
-        label = "KSCAN";
         diode-direction = "col2row";
 		
 // (Arduino labels) Will be using 1 as CS, 2 MOSI, 3 SCK for screen - default adapter for nice!view.
